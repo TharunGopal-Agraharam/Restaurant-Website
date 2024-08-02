@@ -8,7 +8,7 @@ elements of a restaurant's online presence,
 including menus, contact information, and
 ambiance.
 
-**Features**
+**Features** \n
 **Home Page:** Welcome message, restaurant overview, and navigation.
 **Menu Page:** A detailed menu with categories and items.
 **About Page:** Information about the restaurant’s history and values.
